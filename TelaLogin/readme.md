@@ -1,1 +1,0 @@
-#Este Repositório foi criado para compartilhar os projetos desenvolvidos, após estudar os conceitos de html e css
