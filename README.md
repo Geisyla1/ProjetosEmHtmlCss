@@ -13,5 +13,5 @@
    
 ## Projeto 3: https://github.com/Geisyla1/ProjetosEmHtmlCss/tree/main/CatalogoDeCarro
 
-    Este catálogo de carro foi desenvolvido apenas com html e css. Além de conter tags e estilos de css básicos ele, tem também outros estilos do css como grid e o
-  flexbox. Ele permitiu que eu aplicasse aquilo que eu venho estudando sobre flexbox e também perdiu o uso de outros temas ainda pouco explorados no css que é o grid.
+    Este catálogo de carro foi desenvolvido apenas com html e css. Além de conter tags e estilos de css básicos ele, 
+ tem também outros estilos do css como grid e o  flexbox. Ele permitiu que eu aplicasse aquilo que eu venho estudando sobre flexbox e também perdiu o uso de outros temas ainda pouco explorados no css que é o grid.
