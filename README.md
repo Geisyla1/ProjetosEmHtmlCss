@@ -8,7 +8,7 @@
 
 
  ## Projeto 2: https://github.com/Geisyla1/ProjetosEmHtmlCss/tree/main/TelaLogin
-   Este login foi desenvolvido em html e css. Ele é totalmente responsivo para diversos dispositivos, ao desenvolve-lo tive a oportunidade de utilizar medias query para adequar os estilos para outros tamanhos de telas. também  utilizei o flex-box para que a imagem e os inputs ficassem na posição ideal.      
+   Este login foi desenvolvido em html e css. Ele é totalmente responsivo para diversos dispositivos, ao desenvolve-lo tive a oportunidade de utilizar media query para adequar os estilos para outros tamanhos de telas. também  utilizei o flex-box para que a imagem e os inputs ficassem na posição ideal.      
    
    
 ## Projeto 3: https://github.com/Geisyla1/ProjetosEmHtmlCss/tree/main/CatalogoDeCarro
