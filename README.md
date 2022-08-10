@@ -1,4 +1,4 @@
-# ProjetosEmHtmlCss
+# Projetos desenvolvidos em HTML5 e CSS3
 
   Este repositório contém três projetos desenvolvidos em html e css.
  
